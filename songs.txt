@@ -1,0 +1,8 @@
+Mesafe;Serdar Ortaç;1001;Türkçe Pop;2006
+Aşkın Olayım;Simge;1005;Türkçe Pop;2018
+İki keklik;Erkan Oğur;1007;Türk Halk;1996
+Nothing Else Matters;Metallica;1009;Rock;1991
+Umrumda değil;UZİ;1011;Türkçe Rap;2021
+Bul beni;Ezhel;1013;Türkçe Rap;2021
+Affet;Müslüm Gürses;1015;Arabesk;2006
+Elbet Birgün Buluşacağız;Zeki Müren;1017;Türk Sanat;1991
