@@ -1,0 +1,2 @@
+# SongRecordSystem
+The program requires text files for the songs that we want to use in the program. For testing I wrote some songs that I know but one can change the list of songs using the same style. It uses AVL Trees for storing and fast operation of songs. I used full potential of the trees as there are multiple traversal options. One can find some detailed information about the code in the class files.   
